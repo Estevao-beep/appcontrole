@@ -1,0 +1,6 @@
+{
+  "name": "DocasFlow - Gestão de Pátio e Docas (YMS)",
+  "description": "Especificação técnica e sistema de gerenciamento de fluxo de veículos, controle de 14 docas, mitigação de congestionamento e KPIs operacionais para transportadoras e centros de distribuição.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
